@@ -1,3 +1,3 @@
-# projekti
-jalkapallo
+# Jalkapallo
+jalkapallo??
 Jalkapallo on maailman suosituimmassa urheilulajissa jalkapallossa käytettävä yleensä nahasta tai muovista valmistettava pallo. Tunnetuin jalkapallo on mustavalkoinen Select Sportin 1960-luvun alussa valmistama pallo, jonka kuviointi muodostuu 20:stä valkoisesta säännöllisestä kuusikulmiosta ja 12:sta mustasta säännöllisestä viisikulmiosta. Se tuli tunnetuksi vuoden 1970 maailmanmestaruuskilpailujen myötä nimellä Adidas Telstar ja sitä on virheellisesti väitetty teoreetikko Buckminster Fullerin suunnittelemaksi. Kyseessä on pallon muotoiseksi pyöristetty versio geometrisesta kappaleesta, joka tunnetaan nimellä typistetty ikosaedri.[1] Jalkapalloja on eri kokoisia. Niistä tunnetuimmat ovat lasten peleissä käytettävä 3-koon pallo, nuorten peleissä käytettävä 4-koon pallo sekä aikuisten peleissä käytettävä 5-koon pallo. Viitoskoon palloa käytetään myös jalkapallon MM-kisoissa. Lisäksi on olemassa pienempiä palloja, joita käytetään vain lähinnä tekniikkapalloina
